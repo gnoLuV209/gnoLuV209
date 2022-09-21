@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vu Hoang Long</h1>
-<h3 align="center">An Automotive Embedded Systems Engineering</h3>
+<h3 align="center">An Automotive Embedded Systems Engineer</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/107062060/191038928-9f43b611-5674-40c0-a8af-22337bbb856a.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gnoluv209&label=Profile%20views&color=0e75b6&style=flat" alt="gnoluv209" /> </p>
 
