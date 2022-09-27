@@ -2,6 +2,7 @@
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 <h3 align="center">An automotive embedded software engineer  from Vietnam </h3>
 
+
 - ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
 
 - 🌱 I’m currently learning **Automotive Engineering Technology.**
@@ -16,7 +17,7 @@
   </a>
 </p>
 
-## Skills:
+## Technical Skills:
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="48" height="48"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="48" height="48"/>
