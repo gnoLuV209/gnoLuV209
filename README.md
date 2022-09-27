@@ -1,17 +1,48 @@
-<h1 align="center">Hi 👋, I'm Vu Hoang Long</h1>
-<h3 align="center">An Automotive Embedded Systems Engineer</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/107062060/191038928-9f43b611-5674-40c0-a8af-22337bbb856a.png">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gnoluv209&label=Profile%20views&color=0e75b6&style=flat" alt="gnoluv209" /> </p>
+<h1 align="center">Hi 👋, I'm Hoang Long</h1>
+<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+<h3 align="center">An automotive embedded software engineer  from Vietnam </h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/gnoLuV209?tab=repositories](https://github.com/gnoLuV209?tab=repositories)
+- ✍ I'm a student of: [Ho Chi Minh city University of Technology and Education](https://hcmute.edu.vn) (HCMUTE).
 
-- 📫 How to reach me **vuhoanglong209@gmail.com**
+- 🌱 I’m currently learning **Automotive Engineering Technology.**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gnoluv209&show_icons=true&locale=en&layout=compact" alt="gnoluv209" /></p>
+## 📫 How to reach me:
+<p align="center">
+  <a href="https://github.com/TienNHM" alt="Github">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  <a href="mailto:vuhoanglong209@gmail.com" alt="Email">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gnoluv209&show_icons=true&locale=en" alt="gnoluv209" /></p>
+## Skills:
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
+  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png"/>
+  <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-2019.png"/>
+  <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
+  <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
+  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gnoluv209&" alt="gnoluv209" /></p>
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnoLuV209&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="gnoLuV209" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=gnoLuV209&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="gnoLuV209" width="100%"/>
+    </td>
+    <td>
+      <p align="center"> 
+        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
