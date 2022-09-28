@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hoang Long</h1>
 <p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
-<h3 align="center">An automotive embedded software engineer  from Vietnam </h3>
+<h3 align="center">An automotive embedded system engineer  from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gnoLuV209" alt="gnoLuV209" />
 
 
